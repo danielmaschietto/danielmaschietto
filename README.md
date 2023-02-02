@@ -2,11 +2,6 @@
 
 ##
 
-<div align-"right">
-<img src="https://imgs.search.brave.com/b0Z-iaFwtoNBGlPbJCx8EhTuGsZZo40cirnw9Dj0GX4/rs:fit:300:300:1/g:ce/aHR0cHM6Ly82Ni5t/ZWRpYS50dW1ibHIu/Y29tLzNiNDZlNDY3/YjRhY2MyZGJhYmM1/MDJhMWFlYWJhOWNk/L3R1bWJscl9wc3Vp/Zm1JT3ZIMXUxeWNx/d181NDAuanBn" width="100px" />
-
-##
-
 ## Daniel Maschietto | 23 years old 
 <div align="center">
   <a href="https://github.com/rafaballerini">
